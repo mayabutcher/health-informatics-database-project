@@ -80,3 +80,10 @@ These controls help maintain a consistent and trustworthy dataset suitable for o
 Project Impact
 
 By consolidating multiple laboratory workflows into a single relational database, this project improves operational efficiency, supports quality management initiatives, enhances data integrity, and provides actionable reporting tools for laboratory personnel, supervisors, and administrators. The resulting system reflects real-world laboratory information system requirements and demonstrates practical applications of relational database design, SQL querying, workflow automation, and healthcare data management.
+
+Team Contributions
+
+This project was completed as a group assignment for Arizona State University's Health Informatics Database course. Team members included Andrea Jimenez, Aisha Evering, Nathalie Garcia, and Maya Butcher.
+
+The team collaboratively developed the project background, domain analysis, stakeholder interviews, mission statement, entity list, attribute definitions, and entity relationship diagram (ERD). My primary contributions included developing and implementing the SQL code used to create the database in Microsoft Access, performing database quality review and validation, and assembling the final project report and deliverables.
+
